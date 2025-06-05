@@ -1,2 +1,16 @@
-# Autism-Prediction-in-ML-Using-Embeddings-
-n this project, we developed a machine learning pipeline to predict the likelihood of Autism Spectrum Disorder (ASD) based on genomic data. We focused on gene-level analysis by utilizing pre-trained gene symbol embeddings, which capture semantic and functional relationships between genes in a high-dimensional vector space. 
+# Autism Risk Prediction using Gene Symbol Embeddings
+This project aims to predict the likelihood of Autism Spectrum Disorder (ASD) using machine learning models applied to gene symbol embeddings. Instead of relying on traditional categorical gene representations, we use vector embeddings that capture semantic and biological relationships between genes. These embeddings serve as numerical input features to train and evaluate ML models for classifying ASD-related genetic variants.
+
+# Key Features
+Gene Embedding Integration: Transformed gene symbols into high-dimensional vectors using pretrained embeddings.
+
+ASD Classification: Labeled dataset includes both pathogenic (ASD-associated) and benign variants.
+
+ML Models Used: Random Forest, SVM, and ensemble classifiers.
+
+Performance Evaluation: Focused on precision, recall, and F1-score for biomedical classification accuracy.
+
+Biological Relevance: Demonstrates how vectorized gene data can improve ASD risk prediction and genomic analysis.
+
+# Objective
+To explore the power of gene embeddings in enhancing autism risk prediction and demonstrate the applicability of ML in genomics.
