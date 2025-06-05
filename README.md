@@ -4,11 +4,12 @@ This project aims to predict the likelihood of Autism Spectrum Disorder (ASD) us
 # Key Features
 Gene Embedding Integration: Transformed gene symbols into high-dimensional vectors using pretrained embeddings.
 
-ASD Classification: Labeled dataset includes both pathogenic (ASD-associated) and benign variants.
+ASD Classification: Labeled dataset includes both pathogenic (ASD-associated) , benign , likely benign and likely pathogenic variants.
 
-ML Models Used: Random Forest, SVM, and ensemble classifiers.
+ML Models Used: Random Forest.
 
 Performance Evaluation: Focused on precision, recall, and F1-score for biomedical classification accuracy.
+This model shows 94% accuracy in our results
 
 Biological Relevance: Demonstrates how vectorized gene data can improve ASD risk prediction and genomic analysis.
 
