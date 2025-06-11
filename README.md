@@ -11,7 +11,7 @@ Gene Embedding Integration: Transformed gene symbols into high-dimensional vecto
 
 ASD Classification: Labeled dataset includes both pathogenic (ASD-associated) , benign , likely benign and likely pathogenic variants.
 
-ML Models Used: Random Forest.
+ML Models Used: **Random Forest**
 
 Performance Evaluation: Focused on precision, recall, and F1-score for biomedical classification accuracy.
 This model shows 94% accuracy in our results
