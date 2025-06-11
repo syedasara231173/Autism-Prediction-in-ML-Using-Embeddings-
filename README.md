@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/1SBP1krPzvq_ZC8NQe0yOnaOIPi6dczVG?usp=sh
 # Key Features
 Gene Embedding Integration: Transformed gene symbols into high-dimensional vectors using pretrained embeddings.
 
-ASD Classification: Labeled dataset includes both pathogenic (ASD-associated) , benign , likely benign and likely pathogenic variants.
+ASD Classification: Labeled dataset includes pathogenic (ASD-associated) , benign , likely benign and likely pathogenic variants.
 
 ML Models Used: **Random Forest**
 
